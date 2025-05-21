@@ -41,3 +41,7 @@ The project is divided into five main folders:
 - **Postman** installed on your system.
 - Basic understanding of API request methods and testing concepts.
 
+## Future plans
+- This is a work in progress.
+- In the future, I plan to expand this project with additional materials.
+
